@@ -1,0 +1,114 @@
+body{
+width: 100%;
+padding: 0;
+margin: auto;
+font-family: 'Source Sans Pro', sans-serif;
+}
+
+.classheader{
+}
+
+.img-circle{
+  border-radius: 50%;
+  float: left;
+}
+
+header{
+  background-color: #90D7E8;
+  color: #90D7E8;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  margin-top: -1px;
+
+}
+
+span{
+  display: inline-block;
+  position: relative;
+  right: 1px;
+  color: grey;
+  background-color: white;
+
+}
+
+p{
+  color: grey;
+  background-color: white;
+}
+
+h1{
+  color: #90D7E8;
+  font-weight: lighter;
+  font-size: 40px;
+  font-family: 'Libre Baskerville', serif;
+  background-color: white;
+
+
+}
+
+h2{
+  font-weight: normal;
+}
+
+h4{
+  color: grey;
+}
+
+.container{
+  width: 80%;
+  margin: auto;
+  display: flex;
+  color: #90D7E8;
+  font-weight: lighter;
+  padding: 5px;
+  background-color: white;
+}
+
+.container2{
+  width: 80%;
+  margin: auto;
+  display: flex;
+  color: #90D7E8;
+  font-weight: lighter;
+  padding: 5px;
+  background-color: white;
+
+
+}
+
+.space{
+float: right;
+position: relative;
+right: 20px;
+}
+
+.article1{
+  margin-right: 150px;
+  background-color: white;
+
+}
+
+.article2{
+  background-color: white;
+
+}
+
+.article3{
+  margin-right: 150px;
+  background-color: white;
+  position: relative;
+right: -40px;
+}
+
+
+
+}
+
+.article4{
+  background-color: white;
+  position: relative;
+  right: 58px;
+
+
+}
